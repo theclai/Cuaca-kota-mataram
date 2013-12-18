@@ -1,0 +1,6 @@
+cron:
+- description: daily summary job
+  url: /
+  schedule: every 60 minutes from 05:00 to 00:00
+  timezone: Asia/Makassar
+
